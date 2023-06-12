@@ -6,6 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+    path: Assets/Scenes/Main.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Petunjuk.unity
+    guid: 52c513611f99c294a980617f7872420e
+  - enabled: 1
+    path: Assets/Scenes/Topik.unity
+    guid: f53850e7231e65346ae66d529512993c
+  - enabled: 1
+    path: Assets/Scenes/Profil.unity
+    guid: c4869834da4fae440971ab47162873e2
+  - enabled: 1
+    path: Assets/Scenes/Lab.unity
+    guid: f9dc8fedd6fdc354b9b0ba70adbdab6c
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: aba41242a6897c14ab960691e8137644, type: 2}
